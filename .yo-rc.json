@@ -1,0 +1,16 @@
+{
+  "generator-easy-ui5": {
+    "projectname": "Netflix",
+    "namespace": "com.santiago",
+    "platform": "Application Router @ Cloud Foundry",
+    "viewtype": "XML",
+    "viewname": "App",
+    "ui5libs": "Content delivery network (OpenUI5)",
+    "newdir": true,
+    "namespaceURI": "com/santiago",
+    "uimodules": [
+      "uimodule"
+    ],
+    "setupCompleted": true
+  }
+}
